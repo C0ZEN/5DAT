@@ -5,3 +5,9 @@
 ### Sommaire
 
 1. [Introduction to Big Data]({{site.homePageUrl}}1)
+1. [Storing Big Data]({{site.homePageUrl}}2)
+
+### VM
+
+Login: student || user
+Passwoord: pw
