@@ -2,4 +2,4 @@
 
 ### Sommaire
 
-1. [Introduction to Big Data]({{site.homePageUrl}}/1)
+1. [Introduction to Big Data]({{site.homePageUrl}}1)
