@@ -35,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/docs/2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="334">
-                <caret line="627" column="0" lean-forward="true" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
+              <first_editor relative-caret-position="-436">
+                <caret line="612" column="29" lean-forward="false" selection-start-line="612" selection-start-column="29" selection-end-line="612" selection-end-column="29" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -163,7 +163,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5056000" />
+    <option name="totallyTimeSpent" value="5528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -328,8 +328,8 @@
     <entry file="file://$PROJECT_DIR$/docs/2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="334">
-            <caret line="627" column="0" lean-forward="true" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
+          <first_editor relative-caret-position="-436">
+            <caret line="612" column="29" lean-forward="false" selection-start-line="612" selection-start-column="29" selection-end-line="612" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor>
