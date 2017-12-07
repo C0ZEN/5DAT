@@ -4,11 +4,11 @@
 
 ### Sommaire
 
-1. [Introduction to Big Data]({{site.homePageUrl}}1)
-2. [Storing Big Data]({{site.homePageUrl}}2)
-R. [Rappels]({{site.homePageUrl}})rappels)
+- [Introduction to Big Data]({{site.homePageUrl}}1)
+- [Storing Big Data]({{site.homePageUrl}}2)
+- [Rappels]({{site.homePageUrl}})rappels)
 
 ### VM
 
-Login: student || user
-Passwoord: pw
+Login: user
+Password: pw
