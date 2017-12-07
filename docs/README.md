@@ -7,7 +7,7 @@
 - [Introduction to Big Data]({{site.homePageUrl}}1)
 - [Storing Big Data]({{site.homePageUrl}}2)
 - [Introduction to Hadoop]({{site.homePageUrl}}3)
-- [Rappels]({{site.homePageUrl}})rappels)
+- [Rappels]({{site.homePageUrl}}rappels)
 
 ### VM
 
