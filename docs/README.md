@@ -7,6 +7,7 @@
 - [Introduction to Big Data]({{site.homePageUrl}}1)
 - [Storing Big Data]({{site.homePageUrl}}2)
 - [Introduction to Hadoop]({{site.homePageUrl}}3)
+- [Extracting value From Big Data With Queries]({{site.homePageUrl}}4)
 - [Rappels]({{site.homePageUrl}}rappels)
 
 ### VM
